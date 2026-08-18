@@ -1,5 +1,7 @@
 # pottery_wheel
 
+https://github.com/user-attachments/assets/85b75cad-e3fc-4e83-a7d5-a96b45c92494
+
 Throw a pot with your finger, glaze it while it spins, keep it on a shelf.
 
 No 3D engine. The pot is a surface of revolution drawn with
